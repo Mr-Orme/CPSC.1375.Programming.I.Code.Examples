@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (L03.G07.3.Linear.Search.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Linear.Search.cpp
+D:\Google Drive\CPSC 1375\Code Examples\CPSC.1375.Code.Examples\L03.G07.3.Linear.Search\Linear.Search.cpp(28,6): warning C4018: '<': signed/unsigned mismatch
+  L03.G07.3.Linear.Search.vcxproj -> D:\Google Drive\CPSC 1375\Code Examples\CPSC.1375.Code.Examples\Debug\L03.G07.4.Linear.Search.exe

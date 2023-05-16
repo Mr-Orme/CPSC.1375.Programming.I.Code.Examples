@@ -1,0 +1,9 @@
+﻿  Enum.cpp
+D:\Google Drive\CPSC 1375\Code Examples\CPSC.1375.Code.Examples\L02.G05.1.Enumerated.Types\Enum.cpp(9,28): error C2365: 'main::Red': redefinition; previous definition was 'enumerator'
+D:\Google Drive\CPSC 1375\Code Examples\CPSC.1375.Code.Examples\L02.G05.1.Enumerated.Types\Enum.cpp(7): message : see declaration of 'main::Red'
+D:\Google Drive\CPSC 1375\Code Examples\CPSC.1375.Code.Examples\L02.G05.1.Enumerated.Types\Enum.cpp(9,35): error C2365: 'main::Green': redefinition; previous definition was 'enumerator'
+D:\Google Drive\CPSC 1375\Code Examples\CPSC.1375.Code.Examples\L02.G05.1.Enumerated.Types\Enum.cpp(7): message : see declaration of 'main::Green'
+D:\Google Drive\CPSC 1375\Code Examples\CPSC.1375.Code.Examples\L02.G05.1.Enumerated.Types\Enum.cpp(15,23): error C2440: 'initializing': cannot convert from 'main::Colors' to 'main::Lettuce'
+D:\Google Drive\CPSC 1375\Code Examples\CPSC.1375.Code.Examples\L02.G05.1.Enumerated.Types\Enum.cpp(15,16): message : Conversion to enumeration type requires an explicit cast (static_cast, C-style cast or function-style cast)
+D:\Google Drive\CPSC 1375\Code Examples\CPSC.1375.Code.Examples\L02.G05.1.Enumerated.Types\Enum.cpp(16,10): error C2374: 'salad': redefinition; multiple initialization
+D:\Google Drive\CPSC 1375\Code Examples\CPSC.1375.Code.Examples\L02.G05.1.Enumerated.Types\Enum.cpp(15): message : see declaration of 'salad'

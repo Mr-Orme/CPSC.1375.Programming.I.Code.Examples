@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (L02.G05.2.G06.Class.Struct.Array.Vector.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  struct.vector.cpp
+  L02.G05.2.Class.Struct.vcxproj -> C:\Users\Sean Orme\Google Drive\CPSC 1375\Code Examples\CPSC.1375.Code.Examples\Debug\L02.G05.2.G06.Struct.Array.Vector.exe
